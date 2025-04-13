@@ -7,6 +7,6 @@ int main() {
     int **c = &b;
 
     printf("The value of a is %u\n", **c);
-
-    return 0;
+ 
+    return 0; 
 }
