@@ -13,8 +13,6 @@ int main() {
 
     printf("%d\n",x);
     
-
-
     return 0;
 }
 void swap(int *x, int *y){

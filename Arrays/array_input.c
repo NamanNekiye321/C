@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
     
 
     int marks[4];
@@ -14,9 +14,8 @@ int main() {
     printf("Enter marks of student4:");
     scanf("%d",&marks[3]);
 
+
     printf("You have entered %d %d %d and %d", marks[0], marks[1], marks[2], marks[3]);
-
-
 
 
     return 0;
